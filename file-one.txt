@@ -1,0 +1,3 @@
+Hello i am learning GIT
+trying to understand the git commands.
+it is going to be fun!
